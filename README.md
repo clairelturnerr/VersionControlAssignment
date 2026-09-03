@@ -1,0 +1,3 @@
+Version Control is a software development installation that is used to practice, edit, and control a file over time. 
+The difference between Git and GitHub is that GitHub is a hosting platform that helps you share your work with others, while Git is a software tool used to save said projects.
+Git status ensures that you know your file has been modified. Git add . is used to make sure that you are adding an addition to your document. Git commit -m "" is used to label said changes to your file. Git push is used to ensure that the changes are saved to your Git account and to the central server. as opposed to the computer alone.
